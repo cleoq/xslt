@@ -7,8 +7,7 @@
       </div>
       <div style="margin-left:20px;margin-bottom:1em;font-size:10pt">
         <p>
-        <xsl:value-of select="link"/>
-        <span style="font-style:italic"> (<xsl:value-of select="calories"/> calories per serving)</span>
+        <span style="font-style:italic"> <xsl:value-of select="link"/></span>
         </p>
       </div>
     </xsl:for-each>
