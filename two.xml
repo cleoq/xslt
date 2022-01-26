@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://practiceonprogramming.000webhostapp.com/one.xsl"?>
+
+<!--
+	reference
+		site
+			site_name, link, description
+	example
+		title, content 
+	-->
+
+<xml_practice>
+	<reference>
+		<site>
+			<site_name>W3SCHOOL</site_name>
+			<link>https://www.w3schools.com/xml/xml_examples.asp</link>
+			<description></description>
+			</site>
+		</reference>
+	<example>
+		<title>Prolog</title>
+		<content>
+			&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;
+			</content>
+		</example>
+	<example>
+		<title>Prolog for a CSS style sheet</title>
+		<content>
+			&lt;?xml-stylesheet type=&quot;text/css&quot; href=&quot;filepath&quot;?&gt;
+			</content>
+		</example>
+</xml_practice>
